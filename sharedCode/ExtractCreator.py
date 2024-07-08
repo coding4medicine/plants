@@ -6,13 +6,13 @@ orders = {"lamiales"}
 genera = {"scrophularia", "schrebera", "lavandula"}
 
 # File paths
-phylogeny_file_path = "share/phylogeny.txt" # Add a backslash before the file path if running on the server
-names_file_path = "share/names.txt" # Add a backslash before the file path if running on the server
+phylogeny_file_path = "/share/phylogeny.txt" # Add a backslash before the file path if running on the server
+names_file_path = "/share/names.txt" # Add a backslash before the file path if running on the server
 results_file_path = "Lamiales.txt" # Change accordingly
 output_file_path = "NewExtract.fa" # Change accordingly
 
 # Collect plastid files
-plastid_files = glob.glob('share/genomes/*.fna')
+plastid_files = glob.glob('/share/genomes/*.fna')
 
 # Load the species IDs from names.txt
 with open(names_file_path, 'r') as names_file:
