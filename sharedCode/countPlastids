@@ -1,0 +1,53 @@
+from Bio import SeqIO
+import glob
+def findGenus(genus):
+    family = ""
+    order = ""
+    with open("/share/phylogeny.txt", "r") as file:
+        for line in file:
+            parts = line.strip().split("\t")
+            if parts[1].lower()  == genus.lower():
+                parts = parts[2].split("|")
+                flag = False
+                temp = ""
+                for part in parts:
+                    if part[-5:] == "aceae":
+                        flag = True
+                        temp = part
+                    if part[-5:] != "aceae" and flag == True:
+                        family += temp
+                        order += part
+                        break
+    return family, order
+plastids = glob.glob("/share/genomes/*.fna")
+orders = []
+for plastid in plastids:
+    for seq in SeqIO.parse(plastid, "fasta"):
+        l = list(seq.description.split())
+        info = findGenus(l[1])
+        order = info[1].lower()
+        family = info[0].lower()
+        if order in orders:
+           # print(orders)
+            i = orders.index(order)
+            if family in orders[i+1]:
+               # print("if")
+                orders[i+1][family] += 1
+            else:
+               # print("else")
+                orders[i+1][family] = 1
+        else: 
+            orders.append(order)
+            dict = {}
+            orders.append(dict)
+            i = orders.index(order)
+            if family in orders[i+1]:
+                dict[family] += 1
+            else:
+                dict[family] = 1
+
+x = 0
+n = int(len(orders)/2)
+for i in range(n):
+   print(i,orders[x],":",orders[x+1],"\n")
+   x+=2
