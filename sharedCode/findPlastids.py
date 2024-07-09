@@ -1,3 +1,6 @@
+#copyright:HannahBeaver
+#released under MIT lessons
+
 from Bio import SeqIO
 import glob
 def findGenus(genus):
