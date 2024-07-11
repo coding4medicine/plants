@@ -1,0 +1,511 @@
+nc_062050.1 camellia aurea chloroplast, complete genome
+nc_077634.1 camellia cordifolia chloroplast, complete genome
+nc_082979.1 camellia neriifolia chloroplast, complete genome
+nc_067092.1 camellia wumingensis chloroplast, complete genome
+nc_087769.1 camellia fangchengensis voucher ysx47681 chloroplast, complete genome
+nc_024663.1 camellia reticulata chloroplast, complete genome
+nc_054364.1 camellia perpetua chloroplast, complete genome
+nc_058253.1 camellia zhaiana voucher yangsx 6023 plastid, complete genome
+nc_058853.1 camellia fluviatilis chloroplast, complete genome
+nc_035574.1 camellia azalea chloroplast, complete genome
+nc_067089.1 camellia parvipetala chloroplast, complete genome
+nc_022461.1 camellia impressinervis voucher hkas:s.x.yang1080 chloroplast, complete genome
+nc_050388.1 camellia fraterna chloroplast, complete genome
+nc_082980.1 camellia atuberculata chloroplast, complete genome
+nc_067081.1 camellia edithae chloroplast, complete genome
+nc_035652.1 camellia elongata voucher yangsx 5065 plastid, complete genome
+nc_067609.1 camellia longissima voucher s. x. yang5079 chloroplast, complete genome
+nc_022463.1 camellia yunnanensis voucher hkas:s.x.yang1090 chloroplast, complete genome
+nc_061603.1 camellia liberofilamenta chloroplast, complete genome
+nc_069309.1 camellia insularis chloroplast, complete genome
+nc_087746.1 camellia grijsii chloroplast, complete genome
+nc_067085.1 camellia bambusifolia chloroplast, complete genome
+nc_087767.1 camellia crassicolumna voucher ysx4852 chloroplast, complete genome
+nc_067090.1 camellia ptilosperma chloroplast, complete genome
+nc_067087.1 camellia subintegra chloroplast, complete genome
+nc_082534.1 camellia borealiyunnanica chloroplast, complete genome
+nc_058854.1 camellia confusa chloroplast, complete genome
+nc_041473.1 camellia sasanqua chloroplast, complete genome
+nc_063576.1 camellia suaveolens chloroplast, complete genome
+nc_082981.1 camellia rhytidocarpa chloroplast, complete genome
+nc_080884.1 camellia bailinshanica chloroplast, complete genome
+nc_054365.1 camellia pubipetala chloroplast, complete genome
+nc_079666.1 camellia brevipetiolata chloroplast, complete genome
+nc_052752.1 camellia brevistyla chloroplast, complete genome
+nc_087750.1 camellia synaptica chloroplast, complete genome
+nc_038198.1 camellia ptilophylla chloroplast, complete genome
+nc_024661.1 camellia petelotii chloroplast, complete genome
+nc_087766.1 camellia makuanica voucher ysx4838 chloroplast, complete genome
+nc_067086.1 camellia lienshanensis chloroplast, complete genome
+nc_050354.1 camellia anlungensis voucher canlu20191106 chloroplast, complete genome
+nc_086748.1 camellia tianeensis chloroplast, complete genome
+nc_068780.1 camellia flavida chloroplast, complete genome
+nc_061602.1 camellia xiashiensis chloroplast, complete genome
+nc_065391.1 camellia longipedicellata voucher yangsx 5001 plastid, complete genome
+nc_046699.1 camellia mingii voucher s. x. yang 5610 plastid, complete genome
+nc_067082.1 camellia saluenensis chloroplast, complete genome
+nc_084456.1 camellia fusuiensis chloroplast, complete genome
+nc_067764.1 camellia lanceoleosa chloroplast, complete genome
+nc_053896.1 camellia fascicularis chloroplast, complete genome
+nc_080274.1 camellia uraku chloroplast, complete genome
+nc_072329.1 camellia caudata chloroplast, complete genome
+nc_087764.1 camellia pubescens voucher ysx4455 chloroplast, complete genome
+nc_072608.1 camellia lungshenensis chloroplast, complete genome
+nc_082976.1 camellia ilicifolia chloroplast, complete genome
+nc_061600.1 camellia petelotii var. microcarpa chloroplast, complete genome
+nc_087768.1 camellia kwangtungensis voucher ysx5543 chloroplast, complete genome
+nc_067088.1 camellia pingguoensis var. terminalis chloroplast, complete genome
+nc_061051.1 camellia pingguoensis chloroplast, complete genome
+nc_022264.1 camellia taliensis voucher hkas:s.x.yang3157 chloroplast, complete genome
+nc_061599.1 camellia limonia chloroplast, complete genome
+nc_024659.1 camellia grandibracteata chloroplast, complete genome
+nc_080233.1 camellia omeiensis chloroplast, complete genome
+nc_058881.1 camellia meiocarpa clone 3 chloroplast, complete genome
+nc_069227.1 camellia tamdaoensis chloroplast, complete genome
+nc_023084.1 camellia oleifera plastid, complete genome
+nc_036830.1 camellia japonica strain s288c chloroplast, complete genome
+nc_061691.1 camellia sinensis var. pubilimba chloroplast, complete genome
+nc_022462.1 camellia pitardii voucher hkas:s.x.yang3148 chloroplast, complete genome
+nc_082975.1 camellia rubimuricata chloroplast, complete genome
+nc_038181.1 camellia granthamiana chloroplast, complete genome
+nc_087747.1 camellia costei chloroplast, complete genome
+nc_080228.1 camellia oligophlebia chloroplast, complete genome
+nc_057958.1 camellia debaoensis chloroplast, complete genome
+nc_058880.1 camellia semiserrata chloroplast, complete genome
+nc_024662.1 camellia pubicosta chloroplast, complete genome
+nc_057957.1 camellia chrysanthoides chloroplast, complete genome
+nc_039645.1 camellia nitidissima chloroplast, complete genome
+nc_058646.1 camellia micrantha chloroplast, complete genome
+nc_057956.1 camellia achrysantha chloroplast, complete genome
+nc_087751.1 camellia oblata chloroplast, complete genome
+nc_065198.1 camellia formosensis chloroplast, complete genome
+nc_020019.1 camellia sinensis chloroplast, complete genome
+nc_087749.1 camellia salicifolia chloroplast, complete genome
+nc_079935.1 camellia jinshajiangica chloroplast, complete genome
+nc_082977.1 camellia zengii chloroplast, complete genome
+nc_061601.1 camellia sp. 'innominata' chloroplast, complete genome
+nc_058879.1 camellia gigantocarpa chloroplast, complete genome
+nc_087748.1 camellia liberistyloides chloroplast, complete genome
+nc_024660.1 camellia leptophylla chloroplast, complete genome
+nc_067053.1 camellia connata plastid, complete genome
+nc_088067.1 camellia huulungensis chloroplast, complete genome
+nc_022460.1 camellia danzaiensis voucher hkas:s.x.yang3147 chloroplast, complete genome
+nc_067613.1 camellia lipingensis chloroplast, complete genome
+nc_022459.1 camellia cuspidata voucher hkas:s.x.yang3159 chloroplast, complete genome
+nc_035688.1 camellia mairei voucher yangsx 5054 plastid, complete genome
+nc_069310.1 camellia minima chloroplast, complete genome
+nc_084455.1 camellia huana chloroplast, complete genome
+nc_060777.1 camellia polyodonta chloroplast, complete genome
+nc_050389.1 camellia rhytidophylla chloroplast, complete genome
+nc_082978.1 camellia luteoflora chloroplast, complete genome
+nc_024541.1 camellia crapnelliana chloroplast, complete genome
+nc_087765.1 camellia kwangsiensis voucher ysx4824 chloroplast, complete genome
+nc_070214.1 camellia pyxidiacea chloroplast, complete genome
+nc_053622.1 camellia yuhsienensis chloroplast, complete genome
+nc_087763.1 camellia arborescens voucher ysx2909 chloroplast, complete genome
+nc_072174.1 camellia hongkongensis chloroplast, complete genome
+nc_061904.1 camellia costata chloroplast, complete genome
+nc_068785.1 camellia obtusifolia chloroplast, complete genome
+nc_051559.1 camellia amplexicaulis chloroplast, complete genome
+nc_084240.1 camellia flava chloroplast, complete genome
+nc_085496.1 camellia albosericea chloroplast, complete genome
+nc_053541.1 camellia gauchowensis chloroplast, complete genome
+nc_081063.1 camellia magniflora chloroplast, complete genome
+nc_037472.1 camellia chekiangoleosa chloroplast, complete genome
+nc_061610.1 camellia amplexifolia chloroplast, complete genome
+nc_058924.1 camellia parvisepala voucher 119-13-16 chloroplast, complete genome
+nc_087752.1 camellia piquetiana chloroplast, complete genome
+nc_056149.1 camellia tachangensis cultivar xingyi6 chloroplast, complete genome
+nc_039626.1 camellia gymnogyna chloroplast, complete genome
+nc_035651.1 camellia szechuanensis voucher yangsx 5066 plastid, complete genome
+nc_066658.1 camellia atrothea chloroplast, complete genome
+nc_058254.1 camellia rostrata voucher yangsx 6081 plastid, complete genome
+nc_041672.1 camellia renshanxiangiae chloroplast, complete genome
+nc_060778.1 camellia vietnamensis chloroplast, complete genome
+nc_067091.1 camellia indochinensis var. tunghinensis chloroplast, complete genome
+nc_053915.1 camellia kissii chloroplast, complete genome
+nc_068781.1 camellia longzhouensis chloroplast, complete genome
+nc_056335.1 primula jiugongshanensis chloroplast, complete genome
+nc_034371.1 primula kwangtungensis chloroplast, complete genome
+nc_053605.1 primula cicutariifolia isolate zw108 plastid, complete genome
+nc_058260.1 primula ambita voucher zw40 chloroplast, complete genome
+nc_053600.1 primula geraniifolia isolate s13078 plastid, complete genome
+nc_088045.1 primula partschiana plastid, complete genome
+nc_080275.1 primula szechuanica chloroplast, complete genome
+nc_058808.1 primula waltonii chloroplast, complete genome
+nc_034678.1 primula chrysochlora chloroplast, complete genome
+nc_064959.1 primula qiupuensis isolate lxc chloroplast, complete genome
+nc_058259.1 primula effusa voucher zw89 chloroplast, complete genome
+nc_053577.1 primula amethystina isolate s04573 plastid, complete genome
+nc_053583.1 primula chionantha isolate s06971 plastid, complete genome
+nc_024543.1 primula poissonii chloroplast, complete genome
+nc_053597.1 primula walshii isolate s13028 plastid, complete genome
+nc_088043.1 primula chapaensis plastid, complete genome
+nc_053594.1 primula sonchifolia isolate s12343 plastid, complete genome
+nc_088044.1 primula zhui plastid, complete genome
+nc_065386.1 primula odontocalyx chloroplast, complete genome
+nc_046415.1 primula obconica chloroplast, complete genome
+nc_056361.1 primula ranunculoides chloroplast, complete genome
+nc_034331.1 primula persimilis chloroplast, complete genome
+nc_053606.1 primula calyptrata isolate zw111 plastid, complete genome
+nc_053599.1 primula strumosa isolate s13040 plastid, complete genome
+nc_053589.1 primula capitata isolate s11491 plastid, complete genome
+nc_050246.1 primula pulchella chloroplast, complete genome
+nc_053586.1 primula cawdoriana isolate s10724 plastid, complete genome
+nc_046947.1 primula bulleyana chloroplast, complete genome
+nc_065387.1 primula vialii chloroplast, complete genome
+nc_053598.1 primula erythrocarpa isolate s13033 plastid, complete genome
+nc_050244.1 primula moupinensis chloroplast, complete genome
+nc_051972.1 primula filchnerae chloroplast, complete genome
+nc_088048.1 primula cavaleriei plastid, complete genome
+nc_053590.1 primula gemmifera isolate s11963 plastid, complete genome
+nc_065379.1 primula amethystina subsp. argutidens chloroplast, complete genome
+nc_050848.1 primula oreodoxa chloroplast, complete genome
+nc_058249.1 primula stenocalyx chloroplast, complete genome
+nc_030609.1 primula sinensis chloroplast, complete genome
+nc_046755.1 primula tsiangii voucher xu150008 chloroplast, complete genome
+nc_053608.1 primula annulata isolate zw113 plastid, complete genome
+nc_065465.1 primula pumilio chloroplast, complete genome
+nc_050248.1 primula pellucida chloroplast, complete genome
+nc_046771.1 primula helodoxa chloroplast, complete genome
+nc_061696.1 primula forbesii chloroplast, complete genome
+nc_058263.1 primula duclouxii voucher s4588 chloroplast, complete genome
+nc_053579.1 primula florindae isolate s04592 plastid, complete genome
+nc_058256.1 primula asarifolia voucher zw105 chloroplast, complete genome
+nc_058261.1 primula rubifolia voucher zw22 chloroplast, complete genome
+nc_053593.1 primula hookeri isolate s12336 plastid, complete genome
+nc_034677.1 primula stenodonta chloroplast, complete genome
+nc_053602.1 primula forrestii isolate zw31 plastid, complete genome
+nc_053576.1 primula faberi isolate j07304 plastid, complete genome
+nc_039348.1 primula handeliana chloroplast, complete genome
+nc_053595.1 primula flaccida isolate s12401 plastid, complete genome
+nc_085672.1 primula sieboldii chloroplast, complete genome
+nc_088047.1 primula kweichouensis plastid, complete genome
+nc_053604.1 primula merrilliana isolate zw106 plastid, complete genome
+nc_064960.1 primula wannanensis isolate yld chloroplast, complete genome
+nc_053580.1 primula heucherifolia isolate s04596 plastid, complete genome
+nc_058257.1 primula dumicola voucher zw103 chloroplast, complete genome
+nc_061708.1 primula palinuri chloroplast, complete genome
+nc_058572.1 primula violaris chloroplast, complete genome
+nc_053607.1 primula miyabeana isolate zw112 plastid, complete genome
+nc_064961.1 primula ovalifolia isolate jptx chloroplast, complete genome
+nc_053592.1 primula bracteata isolate s12194 plastid, complete genome
+nc_053581.1 primula virginis isolate s04620 plastid, complete genome
+nc_088042.1 primula sugongii plastid, complete genome
+nc_050247.1 primula denticulata subsp. sinodenticulata chloroplast, complete genome
+nc_088046.1 primula sinuata plastid, complete genome
+nc_039350.1 primula knuthiana chloroplast, complete genome
+nc_053587.1 primula atrodentata isolate s10726 plastid, complete genome
+nc_053603.1 primula septemloba isolate zw37 plastid, complete genome
+nc_053584.1 primula saxatilis isolate s06982 plastid, complete genome
+nc_050243.1 primula sikkimensis chloroplast, complete genome
+nc_053596.1 primula dryadifolia isolate s12627 plastid, complete genome
+nc_053582.1 primula algida isolate s06970 plastid, complete genome
+nc_061669.1 primula valentiniana chloroplast, complete genome
+nc_058262.1 primula densa voucher zw08 chloroplast, complete genome
+nc_039349.1 primula woodwardii chloroplast, complete genome
+nc_056372.1 primula hubeiensis chloroplast, complete genome
+nc_053578.1 primula anisodora isolate s04574 plastid, complete genome
+nc_061709.1 primula smithiana chloroplast, complete genome
+nc_053585.1 primula secundiflora isolate s10531 plastid, complete genome
+nc_046770.1 primula beesiana chloroplast, complete genome
+nc_053588.1 primula alpicola isolate s10736 plastid, complete genome
+nc_054305.1 primula homogama plastid, complete genome
+nc_053601.1 primula taliensis isolate s13200 plastid, complete genome
+nc_053591.1 primula purdomii isolate s12077 plastid, complete genome
+nc_031428.1 primula veris chloroplast, complete genome
+nc_050245.1 primula chungensis chloroplast, complete genome
+nc_058258.1 primula vilmoriniana voucher zw90 chloroplast, complete genome
+nc_065129.1 styrax argenteus chloroplast, complete genome
+nc_041138.1 styrax ramirezii chloroplast, complete genome
+nc_065123.1 styrax perkinsiae chloroplast, complete genome
+nc_065125.1 styrax casearifolia chloroplast, complete genome
+nc_053897.1 styrax agrestis chloroplast, complete genome
+nc_059789.1 styrax odoratissimus chloroplast, complete genome
+nc_059761.1 styrax tonkinensis chloroplast, complete genome
+nc_041125.1 styrax suberifolius chloroplast, complete genome
+nc_065130.1 styrax rugosus chloroplast, complete genome
+nc_065127.1 styrax huanus chloroplast, complete genome
+nc_065124.1 styrax roseus chloroplast, complete genome
+nc_065128.1 styrax formosanus chloroplast, complete genome
+nc_049107.1 styrax macrocarpus chloroplast, complete genome
+nc_047298.1 styrax hemsleyanus chloroplast, complete genome
+nc_050646.1 styrax dasyanthus chloroplast, complete genome
+nc_065131.1 styrax americanus chloroplast, complete genome
+nc_059790.1 styrax duclouxii chloroplast, complete genome
+nc_053928.1 styrax wuyuanensis chloroplast, complete genome
+nc_057967.1 styrax chinensis chloroplast, complete genome
+nc_065126.1 styrax serrulatus chloroplast, complete genome
+nc_046064.1 styrax obassis chloroplast, complete genome
+nc_030539.1 styrax grandiflorus chloroplast, complete genome
+nc_046063.1 styrax confusus chloroplast, complete genome
+nc_050645.1 styrax faberi chloroplast, complete genome
+nc_038209.1 styrax zhejiangensis plastid, complete genome
+nc_047429.1 styrax japonicus chloroplast, complete genome
+nc_046062.1 styrax calvescens chloroplast, complete genome
+nc_065694.1 ardisia brevicaulis chloroplast, complete genome
+nc_061215.1 ardisia crenata var. bicolor voucher acren20190617 chloroplast, complete genome
+nc_066499.1 ardisia pusilla chloroplast, complete genome
+nc_066501.1 ardisia pedalis chloroplast, complete genome
+nc_066496.1 ardisia maclurei chloroplast, complete genome
+nc_060599.1 ardisia replicata chloroplast, complete genome
+nc_066498.1 ardisia pseudocrispa chloroplast, complete genome
+nc_060702.1 ardisia carnosicaulis chloroplast, complete genome
+nc_066497.1 ardisia primulifolia chloroplast, complete genome
+nc_057115.1 ardisia mamillata chloroplast, complete genome
+nc_058736.1 ardisia japonica chloroplast, complete genome
+nc_060598.1 ardisia omissa chloroplast, complete genome
+nc_045098.1 ardisia solanacea voucher 17988 chloroplast, complete genome
+nc_087975.1 ardisia squamulosa chloroplast, complete genome
+nc_021121.1 ardisia polysticta chloroplast, complete genome
+nc_065390.1 ardisia violacea chloroplast, complete genome
+nc_059912.1 ardisia gigantifolia chloroplast, complete genome
+nc_072267.1 ardisia crispa isolate 3 chloroplast, complete genome
+nc_060703.1 ardisia merrillii chloroplast, complete genome
+nc_059021.1 ardisia crenata chloroplast, complete genome
+nc_060706.1 ardisia quinquegona chloroplast, complete genome
+nc_060707.1 ardisia fordii chloroplast, complete genome
+nc_054287.1 ardisia bullata chloroplast, complete genome
+nc_087974.1 ardisia brunnescens chloroplast, complete genome
+nc_066500.1 ardisia lindleyana chloroplast, complete genome
+nc_060668.1 impatiens macrovexilla chloroplast, complete genome
+nc_037401.1 impatiens piufanensis chloroplast, complete genome
+nc_060669.1 impatiens macrovexilla var. yaoshanensis chloroplast, complete genome
+nc_059949.1 impatiens walleriana chloroplast, complete genome
+nc_072171.1 impatiens omeiana chloroplast, complete genome
+nc_048520.1 impatiens hawkeri chloroplast, complete genome
+nc_059946.1 impatiens linearisepala chloroplast, complete genome
+nc_071771.1 impatiens conchibracteata chloroplast, complete genome
+nc_059945.1 impatiens guizhouensis chloroplast, complete genome
+nc_059943.1 impatiens chlorosepala chloroplast, complete genome
+nc_059948.1 impatiens stenosepala chloroplast, complete genome
+nc_071773.1 impatiens morsei chloroplast, complete genome
+nc_058215.1 impatiens mengtszeana chloroplast, complete genome
+nc_058205.1 impatiens monticola chloroplast, complete genome
+nc_058204.1 impatiens cyanantha chloroplast, complete genome
+nc_059760.1 impatiens uliginosa chloroplast, complete genome
+nc_071770.1 impatiens arguta chloroplast, complete genome
+nc_047191.1 impatiens pritzelii plastid, complete genome
+nc_071772.1 impatiens huangyanensis chloroplast, complete genome
+nc_059942.1 impatiens balsamina chloroplast, complete genome
+nc_068751.1 impatiens platysepala chloroplast, complete genome
+nc_059947.1 impatiens loulanensis chloroplast, complete genome
+nc_058801.1 impatiens davidii chloroplast, complete genome
+nc_059944.1 impatiens fanjingshanica chloroplast, complete genome
+nc_044718.1 impatiens glandulifera isolate hb10 chloroplast, complete genome
+nc_053940.1 impatiens alpicola chloroplast, complete genome
+nc_046477.1 actinidia zhejiangensis chloroplast,complete genome
+nc_034914.1 actinidia eriantha chloroplast, complete genome
+nc_026691.1 actinidia deliciosa isolate ad-4 chloroplast, complete genome
+nc_051887.1 actinidia macrosperma chloroplast, complete genome
+nc_051879.1 actinidia hemsleyana chloroplast, complete genome
+nc_039973.1 actinidia rufa chloroplast, complete genome
+nc_034913.1 actinidia arguta chloroplast, complete genome
+nc_069068.1 actinidia venosa plastid, complete genome
+nc_031187.1 actinidia tetramera chloroplast, complete genome
+nc_053769.1 actinidia rubus chloroplast, complete genome
+nc_046507.1 actinidia lanceolata chloroplast, complete genome
+nc_034915.1 actinidia kolomikta chloroplast, complete genome
+nc_051881.1 actinidia setosa chloroplast, complete genome
+nc_066502.1 actinidia lijiangensis chloroplast, complete genome
+nc_050357.1 actinidia valvata chloroplast, complete genome
+nc_026690.1 actinidia chinensis isolate ac-2 chloroplast, complete genome
+nc_051880.1 actinidia latifolia chloroplast, complete genome
+nc_031186.1 actinidia polygama chloroplast, complete genome
+nc_051888.1 actinidia fulvicoma chloroplast, complete genome
+nc_043861.1 actinidia callosa var. henryi chloroplast, complete genome
+nc_030789.1 diospyros kaki chloroplast, complete genome
+nc_042161.1 diospyros maclurei chloroplast, complete genome
+nc_035654.1 diospyros strigosa voucher 14cs8899 plastid, complete genome
+nc_081461.1 diospyros morrisiana chloroplast, complete genome
+nc_030787.1 diospyros oleifera chloroplast, complete genome
+nc_030784.1 diospyros glaucifolia chloroplast, complete genome
+nc_042160.1 diospyros hainanensis chloroplast, complete genome
+nc_035703.1 diospyros dumetorum voucher 13cs7925 plastid, complete genome
+nc_067511.1 diospyros sutchuensis chloroplast, complete genome
+nc_039555.1 diospyros virginiana chloroplast, complete genome
+nc_033502.1 diospyros blancoi voucher pdbk 2014-0240 chloroplast, complete genome
+nc_046040.1 diospyros celebica chloroplast, complete genome
+nc_059001.1 diospyros nigra chloroplast, complete genome
+nc_030786.1 diospyros lotus chloroplast, complete genome
+nc_039554.1 diospyros cathayensis chloroplast, complete genome
+nc_060861.1 diospyros vaccinioides voucher sd618 chloroplast, complete genome
+nc_039556.1 diospyros rhombifolia chloroplast, complete genome
+nc_081462.1 diospyros eriantha chloroplast, complete genome
+nc_053746.1 rhododendron platypodum voucher lh ma wulong 2020516 chloroplast, complete genome
+nc_069024.1 rhododendron anthopogonoides voucher herbarium of qinghai hospital of traditional chinese medicine chloroplast, complete genome
+nc_050162.1 rhododendron griersonianum chloroplast, complete genome
+nc_057644.1 rhododendron datiandingense chloroplast, complete genome
+nc_061396.1 rhododendron calophytum chloroplast, complete genome
+nc_082049.1 rhododendron farrerae chloroplast, complete genome
+nc_083984.1 rhododendron ambiguum chloroplast, complete genome
+nc_053764.1 rhododendron simsii chloroplast, complete genome
+nc_069023.1 rhododendron przewalskii chloroplast, complete genome
+nc_063113.1 rhododendron huadingense chloroplast, complete genome
+nc_065477.1 rhododendron micranthum chloroplast, complete genome
+nc_063094.1 rhododendron latoucheae chloroplast, complete genome
+nc_067871.1 rhododendron capitatum chloroplast, complete genome
+nc_067870.1 rhododendron thymifolium chloroplast, complete genome
+nc_047438.1 rhododendron delavayi var. delavayi chloroplast, complete genome
+nc_086505.1 rhododendron purdomii chloroplast, complete genome
+nc_058233.1 rhododendron kawakamii chloroplast, complete genome
+nc_065157.1 schima parviflora chloroplast, complete genome
+nc_035546.1 schima wallichii voucher yxq001 plastid, complete genome
+nc_035541.1 schima noronhae voucher yxq034 plastid, complete genome
+nc_035539.1 schima khasiana voucher yxq070 plastid, complete genome
+nc_035542.1 schima remotiserrata voucher yxq186 plastid, complete genome
+nc_035544.1 schima sinensis voucher yxq2902 plastid, complete genome
+nc_035536.1 schima argentea voucher yxq041 plastid, complete genome
+nc_035545.1 schima superba voucher yxq142 plastid, complete genome
+nc_035540.1 schima multibracteata voucher yxq146 plastid, complete genome
+nc_035537.1 schima brevipedicellata voucher yxq069 plastid, complete genome
+nc_035538.1 schima crenata voucher yxq103 plastid, complete genome
+nc_035543.1 schima sericans voucher yxq053 plastid, complete genome
+nc_053889.1 polyspora tiantangensis voucher ma 15701 plastid, complete genome
+nc_035645.1 polyspora axillaris voucher yxq099 plastid, complete genome
+nc_035693.1 polyspora hainanensis voucher yxq097 plastid, complete genome
+nc_035648.1 polyspora dalgleishiana voucher browp 501 plastid, complete genome
+nc_067734.1 polyspora tonkinensis voucher fzf20220217 chloroplast, complete genome
+nc_035689.1 polyspora longicarpa voucher yangsx 4779 plastid, complete genome
+nc_035643.1 polyspora speciosa voucher yxq145 plastid, complete genome
+nc_059950.1 polyspora penangensis voucher sing2015-178 chloroplast, complete genome
+nc_045275.1 lysimachia congestiflora chloroplast, complete genome
+nc_064345.1 lysimachia clethroides chloroplast, complete genome
+nc_026197.1 lysimachia coreana voucher ynuh:ynuhpg002 plastid, complete genome
+nc_052863.1 lysimachia hemsleyana chloroplast, complete genome
+nc_063330.1 lysimachia candida isolate henu20210731 chloroplast, complete genome
+nc_053736.1 lysimachia christinae chloroplast, complete genome
+nc_060700.1 lysimachia mauritiana chloroplast, complete genome
+nc_065763.1 lysimachia fordiana chloroplast, complete genome
+nc_071359.1 gaultheria pyrolifolia chloroplast, complete sequence
+nc_062667.1 gaultheria nummularioides chloroplast, complete genome
+nc_059849.1 gaultheria fragrantissima chloroplast, complete genome
+nc_071357.1 gaultheria semi-infera chloroplast, complete sequence
+nc_071361.1 gaultheria hookeri chloroplast, complete sequence
+nc_071360.1 gaultheria longibracteolata chloroplast, complete sequence
+nc_057623.1 gaultheria griffithiana isolate ll48 voucher kun1248996 chloroplast, complete genome
+nc_071358.1 gaultheria sinensis chloroplast, complete sequence
+nc_036489.1 symplocos ovatilobata chloroplast, complete genome
+nc_058288.1 symplocos prunifolia chloroplast, complete genome
+nc_066798.1 symplocos tetragona chloroplast, complete genome
+nc_035702.1 symplocos paniculata voucher 14cs8181 plastid, complete genome
+nc_035708.2 symplocos costaricana voucher nz7028 plastid, complete genome
+nc_058287.1 symplocos coreana chloroplast, complete genome
+nc_058289.1 symplocos tanakana chloroplast, complete genome
+nc_019616.1 vaccinium macrocarpon plastid, complete genome
+nc_068712.1 vaccinium virgatum chloroplast, complete sequence
+nc_042713.1 vaccinium oldhamii plastid, complete genome
+nc_073583.1 vaccinium floribundum chloroplast, complete genome
+nc_068711.1 vaccinium corymbosum chloroplast, complete sequence
+nc_081497.1 vaccinium microcarpum chloroplast, complete genome
+nc_071868.1 vaccinium ashei chloroplast, complete genome
+nc_068715.1 vaccinium myrtillus chloroplast, complete sequence
+nc_068713.1 vaccinium angustifolium chloroplast, complete sequence
+nc_081496.1 vaccinium oxycoccos chloroplast, complete genome
+nc_035639.1 pyrenaria menglaensis voucher yxq211 plastid, complete genome
+nc_035704.1 pyrenaria diospyricarpa voucher 13cs6582 plastid, complete genome
+nc_035644.1 pyrenaria khasiana voucher yangsx 5046 plastid, complete genome
+nc_035642.1 pyrenaria pingpienensis voucher yxq026 plastid, complete genome
+nc_035694.1 pyrenaria oblongicarpa voucher yxq216 plastid, complete genome
+nc_035686.1 pyrenaria microcarpa voucher yxq101 plastid, complete genome
+nc_068227.1 cyclamen persicum chloroplast, complete genome
+nc_069839.1 cyclamen coum chloroplast, complete genome
+nc_071162.1 cyclamen rohlfsianum chloroplast, complete genome
+nc_071163.1 cyclamen cyprium chloroplast, complete genome
+nc_071161.1 cyclamen graecum chloroplast, complete genome
+nc_069840.1 cyclamen hederifolium chloroplast, complete genome
+nc_035711.1 sinojackia rehderiana voucher 14cs9081 plastid, complete genome
+nc_047297.1 sinojackia huangmeiensis chloroplast, complete genome
+nc_035418.1 sinojackia xylocarpa voucher sxyl20170211 chloroplast, complete genome
+nc_080872.1 sinojackia oblongicarpa chloroplast, complete genome
+nc_041131.1 sinojackia microcarpa chloroplast, complete genome
+nc_042148.1 sinojackia sarcocarpa chloroplast, complete genome
+nc_080505.1 androsace axillaris chloroplast, complete genome
+nc_080506.1 androsace henryi chloroplast, complete genome
+nc_080502.1 androsace filiformis chloroplast, complete genome
+nc_051991.1 androsace mariae chloroplast, complete genome
+nc_034641.1 androsace bulleyana chloroplast, complete genome
+nc_080504.1 androsace kouytchensis chloroplast, complete genome
+nc_057637.1 androsace erecta chloroplast, complete genome
+nc_039347.1 androsace laxa chloroplast, complete genome
+nc_080503.1 androsace septentrionalis chloroplast, complete genome
+nc_034640.1 androsace paxiana chloroplast, complete genome
+nc_045112.1 myrsine stolonifera voucher yg208 chloroplast, complete genome
+nc_045116.1 myrsine sandwicensis voucher 38322 chloroplast, complete genome
+nc_045100.1 myrsine africana voucher 30087 chloroplast, complete genome
+nc_067768.1 myrsine linearis chloroplast, complete genome
+nc_041133.1 pterostyrax psilophyllus chloroplast, complete genome
+nc_041135.1 pterostyrax hispidus chloroplast, complete genome
+nc_041134.1 pterostyrax corymbosus chloroplast, complete genome
+nc_035705.1 barringtonia racemosa voucher 14cs8144 plastid, complete genome
+nc_070213.1 barringtonia asiatica chloroplast, complete genome
+nc_035701.1 barringtonia fusicarpa voucher 14cs9189 plastid, complete genome
+nc_031892.1 alniphyllum eberhardtii plastid, complete genome
+nc_054200.1 alniphyllum fortunei chloroplast, complete genome
+nc_041126.1 alniphyllum pterospermum chloroplast, complete genome
+nc_045118.1 tapeinosperma netor voucher 33984 chloroplast, complete genome
+nc_045117.1 tapeinosperma multiflorum voucher y934 chloroplast, complete genome
+nc_044098.1 saurauia tristyla chloroplast, complete genome
+nc_069064.1 saurauia napaulensis plastid, complete genome
+nc_052730.1 pouteria caimito chloroplast, complete genome
+nc_033501.1 pouteria campechiana voucher pdbk 2014-0238 chloroplast, complete genome
+nc_045115.1 parathesis chiapensis voucher yg237 chloroplast, complete genome
+nc_045114.1 parathesis donnell-smithii voucher yg238 chloroplast, complete genome
+nc_035582.1 monotropa uniflora isolate florida voucher mbb89_os plastid, complete genome
+nc_029704.1 monotropa hypopitys isolate 1volr chloroplast, complete genome
+nc_061660.1 mimusops elengi chloroplast, complete genome
+nc_058625.1 mimusops coriacea voucher uec 90949 chloroplast, complete genome
+nc_053899.1 huodendron tibeticum chloroplast, complete genome
+nc_041132.1 huodendron biaristatum chloroplast, complete genome
+nc_041128.1 halesia diptera chloroplast, complete genome
+nc_041127.1 halesia carolina chloroplast, complete genome
+nc_050937.1 eurya loquaiana chloroplast, complete genome
+nc_041510.1 eurya alata chloroplast, complete genome
+nc_045113.1 embelia vestita voucher yg205 chloroplast, complete genome
+nc_056316.1 embelia scandens chloroplast, complete genome
+nc_085237.1 embelia parviflora chloroplast, complete genome
+nc_084871.1 clethra petelotii plastid, complete genome
+nc_041129.1 clethra delavayi chloroplast, complete genome
+nc_060326.1 clethra fargesii chloroplast, complete sequence
+nc_041171.1 changiostyrax dolichocarpus chloroplast, complete genome
+nc_042252.1 changiostyrax dolichocarpus isolate sm2 chloroplast, complete genome
+nc_030180.1 bruinsmia polysperma chloroplast, complete genome
+nc_041137.1 bruinsmia styracoides chloroplast, complete genome
+nc_035653.1 adinandra angustifolia voucher 14cs8678 plastid, complete genome
+nc_035678.1 adinandra millettii voucher 14cs8453 plastid, complete genome
+nc_087777.1 adinandra glischroloma chloroplast, complete genome
+nc_057076.1 vitellaria paradoxa chloroplast, complete genome
+nc_035687.1 tutcheria championii voucher yxq155 plastid, complete genome
+nc_035706.1 ternstroemia gymnanthera voucher 13cs7178 plastid, complete genome
+nc_053849.1 synsepalum dulcificum chloroplast, complete genome
+nc_041130.1 sideroxylon wightianum chloroplast, complete genome
+nc_069062.1 sarracenia alata plastid, complete genome
+nc_069066.1 roridula gorgonias plastid, complete genome
+nc_041139.1 rehderodendron macrocarpum chloroplast, complete genome
+nc_050355.1 polemonium chinense chloroplast, complete genome
+nc_035584.1 pityopus californicus isolate california voucher jvf2963_os plastid, complete genome
+nc_041136.1 perkinsiodendron macgregorii chloroplast, complete genome
+nc_035710.1 pentaphylax euryoides voucher 14cs8681 plastid, complete genome
+nc_035583.1 monotropsis odorata voucher jpr10-62 os plastid, complete genome
+nc_035712.1 melliodendron xylocarpum voucher yxq138 plastid, complete genome
+nc_041255.1 marcgravia coriacea voucher rbge 19672994 (kun) plastid, complete genome
+nc_062126.1 maesa hupehensis chloroplast, complete genome
+nc_079854.1 maesa japonica voucher cheongsuri-220427-001 chloroplast, complete genome
+nc_053619.1 madhuca hainanensis chloroplast, complete genome
+nc_035700.1 laplacea fruticosa voucher n. zamora 6038 plastid, complete genome
+nc_037400.1 hydrocera triflora chloroplast, complete genome
+nc_035581.1 hemitomes congestum voucher jvf2918_os plastid, complete genome
+nc_069063.1 heliamphora minor plastid, complete genome
+nc_041509.1 hartia laotica chloroplast, complete genome
+nc_059901.1 glaux maritima chloroplast, complete genome
+nc_035692.1 franklinia alatamaha voucher mo-6587811 plastid, complete genome
+nc_039178.1 euryodendron excelsum chloroplast, complete genome
+nc_045099.1 elingamita johnsonii voucher y958 chloroplast, complete genome
+nc_069196.1 clematoclethra scandens plastid, complete genome
+nc_053850.1 chrysophyllum cainito chloroplast, complete genome
+nc_060372.1 bryocarpum himalaicum chloroplast, complete sequence
+nc_036412.1 bertholletia excelsa voucher ny:mori25637 chloroplast, complete genome
+nc_035641.1 apterosperma oblata voucher yangsx 4361 plastid, complete genome
+nc_035709.1 anneslea fragrans voucher 13cs6723 plastid, complete genome
+nc_058759.1 agapetes malipoensis chloroplast, complete genome
+nc_045111.1 aegiceras corniculatum voucher yg209 chloroplast, complete genome

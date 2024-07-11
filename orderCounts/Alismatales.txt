@@ -1,0 +1,125 @@
+nc_061002.1 ottelia emersa plastid, complete genome
+nc_060998.1 ottelia acuminata var. jingxiensis isolate 11 plastid, complete genome
+nc_057494.1 ottelia alismoides voucher guo al01 chloroplast, complete genome
+nc_061000.1 ottelia acuminata var. songmingensis plastid, complete genome
+nc_046891.1 ottelia cordata chloroplast, complete genome
+nc_061003.1 ottelia fengshanensis plastid, complete genome
+nc_060999.1 ottelia acuminata var. lunanensis plastid, complete genome
+nc_061005.1 ottelia mesenterium plastid, complete genome
+nc_060997.1 ottelia acuminata plastid, complete genome
+nc_061004.1 ottelia guanyangensis plastid, complete genome
+nc_061001.1 ottelia balansae plastid, complete genome
+nc_044118.1 arisaema ringens chloroplast, complete genome
+nc_072165.1 arisaema prazeri voucher a399_a chloroplast, complete genome
+nc_063965.1 arisaema heterophyllum chloroplast, complete genome
+nc_064687.1 arisaema decipiens chloroplast, complete genome
+nc_051541.1 arisaema erubescens chloroplast, complete genome
+nc_065735.1 arisaema flavum chloroplast, complete genome
+nc_085264.1 arisaema amurense chloroplast, complete genome
+nc_053912.1 aponogeton lakhonensis isolate 18-2 chloroplast, complete genome
+nc_053913.1 aponogeton rehmannii isolate 23-1 chloroplast, complete genome
+nc_053910.1 aponogeton abyssinicus isolate mll11 chloroplast, complete genome
+nc_053914.1 aponogeton undulatus isolate 22-2 chloroplast, complete genome
+nc_053911.1 aponogeton desertorum isolate 65 chloroplast, complete genome
+nc_068805.1 zostera muelleri chloroplast, complete genome
+nc_036014.1 zostera marina chloroplast, complete genome
+nc_058623.1 zostera japonica chloroplast, complete genome
+nc_058621.1 zostera nigricaulis chloroplast, complete genome
+nc_068801.1 caladium lindenii isolate rmqny chloroplast, complete genome
+nc_068800.1 caladium humboldtii isolate mnbhyy chloroplast, complete genome
+nc_068799.1 caladium praetermissum isolate xlmrhyy chloroplast, complete genome
+nc_060474.1 caladium bicolor chloroplast, complete sequence
+nc_015899.1 wolffia australiana chloroplast, complete genome
+nc_047280.1 wolffia brasiliensis strain 7710 chloroplast, complete genome
+nc_048463.1 wolffia globosa chloroplast, complete genome
+nc_072708.1 wolffia arrhiza strain 7193 chloroplast, complete genome
+nc_047233.1 spathiphyllum patulinervum chloroplast, complete genome
+nc_045125.1 spathiphyllum cannifolium chloroplast, complete genome
+nc_030371.1 spathiphyllum kochii isolate gp chloroplast, complete genome
+nc_058756.1 pinellia pedatisecta chloroplast, complete genome
+nc_052862.1 pinellia peltata chloroplast, complete genome
+nc_027681.1 pinellia ternata chloroplast, complete genome
+nc_061224.1 hydrocharis chevalieri chloroplast, complete genome
+nc_061222.1 hydrocharis morsus-ranae chloroplast, complete genome
+nc_061221.1 hydrocharis dubia chloroplast, complete genome
+nc_086582.1 amorphophallus kiusianus chloroplast, complete genome
+nc_086626.1 amorphophallus muelleri chloroplast, complete genome
+nc_046702.1 amorphophallus konjac chloroplast, complete genome
+nc_072945.1 amorphophallus coaetaneus chloroplast, complete genome
+nc_086855.1 amorphophallus tonkinensis chloroplast, complete genome
+nc_082906.1 amorphophallus yunnanensis chloroplast, complete genome
+nc_067990.1 amorphophallus albus isolate yj-065 chloroplast, complete genome
+nc_086625.1 amorphophallus paeoniifolius chloroplast, complete genome
+nc_086583.1 amorphophallus kachinensis chloroplast, complete genome
+nc_082907.1 amorphophallus krausei chloroplast, complete genome
+nc_056329.1 amorphophallus titanum voucher mo:103059 chloroplast, complete genome
+nc_070237.1 aglaonema modestum chloroplast, complete genome
+nc_070395.1 aglaonema costatum plastid, complete genome
+nc_070245.1 aglaonema hybrid cultivar cultivar red valentine chloroplast, complete genome
+nc_084111.1 zantedeschia elliottiana chloroplast, complete sequence
+nc_035499.1 zantedeschia aethiopica chloroplast, complete sequence
+nc_041553.1 zantedeschia hybrid cultivar cultivar gag-si chloroplast, complete genome
+nc_069975.1 vallisneria natans chloroplast, complete genome
+nc_068656.1 vallisneria denseserrulata x vallisneria spiralis chloroplast, complete genome
+nc_029813.1 tofieldia thibetica plastid, complete genome
+nc_068654.1 tofieldia ulleungensis voucher esk21-602 chloroplast, complete genome
+nc_045121.1 symplocarpus nipponicus chloroplast, complete genome
+nc_033970.1 symplocarpus renifolius chloroplast, complete genome
+nc_069582.1 potamogeton crispus chloroplast, complete genome
+nc_029814.1 potamogeton perfoliatus plastid, complete genome
+nc_077522.1 potamogeton wrightii chloroplast, complete genome
+nc_077520.1 potamogeton distinctus chloroplast, complete genome
+nc_077521.1 potamogeton maackianus chloroplast, complete genome
+nc_051970.1 halophila beccarii chloroplast, complete genome
+nc_068806.1 halophila ovalis chloroplast, complete genome
+nc_027954.2 epipremnum aureum chloroplast, complete genome
+nc_047232.1 epipremnum amplissimum chloroplast, complete genome
+nc_045925.1 caldesia grandis chloroplast, complete genome
+nc_045926.1 caldesia parnassifolia chloroplast, complete genome
+nc_068131.1 anubias barteri isolate jyh085 chloroplast, complete genome
+nc_062430.1 anubias hastifolia chloroplast, complete genome
+nc_051874.1 zomicarpella amazonica voucher mo:71763b chloroplast, complete genome
+nc_069316.1 zannichellia palustris chloroplast, complete genome
+nc_048973.1 zamioculcas zamiifolia voucher 97755 (mo) chloroplast, complete genome
+nc_051873.1 xanthosoma helleborifolium voucher mo:103054 chloroplast, complete genome
+nc_015894.1 wolffiella lingulata chloroplast, complete genome
+nc_051872.1 typhonium blumei voucher mo:103053 chloroplast, complete genome
+nc_043774.1 thalassia hemprichii chloroplast, complete genome
+nc_070391.1 syngonium podophyllum plastid, complete genome
+nc_048972.1 stylochaeton bogneri voucher 87579 (mo) chloroplast, complete genome
+nc_057253.1 stuckenia pectinata chloroplast, complete genome
+nc_051952.1 steudnera colocasiifolia voucher mo:77954a chloroplast, complete genome
+nc_047235.1 stenospermation multiovulatum voucher 82903b (mo) chloroplast, complete genome
+nc_015891.1 spirodela polyrhiza chloroplast, complete genome
+nc_050648.1 sauromatum giganteum chloroplast, complete genome
+nc_051974.1 ruppia brevipedunculata voucher df201908-1 chloroplast, complete genome
+nc_048522.1 pistia stratiotes chloroplast, complete genome
+nc_058622.1 phyllospadix iwatensis chloroplast, complete genome
+nc_064988.1 philodendron hederaceum chloroplast, complete genome
+nc_048971.1 orontium aquaticum voucher 103050 (mo) chloroplast, complete genome
+nc_021936.1 najas flexilis chloroplast, complete genome
+nc_047234.1 monstera adansonii voucher 103052 (mo) chloroplast, complete genome
+nc_082227.1 monstera deliciosa chloroplast, complete genome
+nc_061223.1 limnobium laevigatum chloroplast, complete genome
+nc_060475.1 leucocasia gigantea chloroplast, complete sequence
+nc_072328.1 lemna turionifera plastid, complete genome
+nc_010109.1 lemna minor chloroplast, complete genome
+nc_054336.1 homalomena occulta chloroplast, complete genome
+nc_048519.1 enhalus acoroides chloroplast, complete genome
+nc_018541.1 elodea canadensis chloroplast, complete genome
+nc_027272.1 dieffenbachia seguine chloroplast, complete genome
+nc_060847.1 cryptocoryne elliptica chloroplast, complete genome
+nc_051871.1 carlephyton glaucophyllum voucher mo:101527 chloroplast, complete genome
+nc_051949.1 butomus umbellatus chloroplast, complete genome
+nc_060996.1 blyxa aubertii plastid, complete genome
+nc_056328.1 arisarum simorrhinum voucher mo:101519 chloroplast, complete genome
+nc_072558.1 anthurium andraeanum cultivar alabama voucher hz0711 chloroplast, complete genome
+nc_051870.1 anthurium huixtlense voucher 63309 (mo) chloroplast, complete genome
+nc_060696.1 alocasia cucullata chloroplast, complete genome
+nc_087718.1 alisma gramineum chloroplast, complete sequence
+nc_085165.1 alisma triviale voucher khd:khd00071802 chloroplast, complete genome
+nc_087717.1 alisma canaliculatum chloroplast, complete sequence
+nc_087719.1 alisma lanceolatum chloroplast, complete sequence
+nc_085164.1 alisma subcordatum voucher us:si 412 chloroplast, complete genome
+nc_087720.1 alisma wahlenbergii chloroplast, complete sequence
+nc_044108.1 alisma plantago-aquatica chloroplast, complete genome
