@@ -66,19 +66,7 @@ with open(output_file_path, 'w') as extract_file:
             if any(species_id in description for species_id in filtered_species_ids):
                 # Check if the genus is one of the specified genera
                 if any(genus.lower() in description for genus in genera):
-                    # Modify the description to include only the species name
-                    # Assuming the species name is the first two words after the genus name
-                    description_parts = seq_record.description.split()
-                    # Find the index of the genus in the description
-                    genus_index = next((i for i, part in enumerate(description_parts) if part.lower() in genera), None)
-                    # Extract the species ID and name
-                    species_id = description_parts[0]
-                    species_name = " ".join(description_parts[genus_index:genus_index + 3])
-                    # Join the ID and the name
-                    joined_description = f"{species_id}_{species_name}"
-                    # Update the seq_record's description
-                    seq_record.description = joined_description
                     # Write the sequence to the output file
                     SeqIO.write(seq_record, extract_file, "fasta")
-                    # Optionally, print the modified description of the sequence
+                    # Print the description of the sequence (Optional)
                     print(seq_record.description)
